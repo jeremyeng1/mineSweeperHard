@@ -1,4 +1,4 @@
-# Assignment4
+# MineSweeperHardMode
 The goal for this game is to reach the exit spot, while avoiding the mines on the field
 you spawn at the bottom of the grid
 the player is the spot where the number is 
